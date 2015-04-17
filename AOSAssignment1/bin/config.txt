@@ -1,0 +1,4 @@
+[NODE,HOSTADDRESS,PORT]
+0,localhost,3654
+1,localhost,3655
+[END NODE DETAILS]
